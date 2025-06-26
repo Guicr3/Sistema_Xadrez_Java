@@ -11,11 +11,11 @@
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/Color.java</file>
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/ChessPiece.java</file>
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/ChessMatch.java</file>
-            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/pieces/Rook.java</file>
-            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/pieces/King.java</file>
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/boardgame/BoardException.java</file>
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/ChessException.java</file>
             <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/ChessPosition.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/Guilherme/Documents/NetBeansProjects/Sistema_Java/src/chess/pieces/King.java</file>
         </group>
     </open-files>
 </project-private>
